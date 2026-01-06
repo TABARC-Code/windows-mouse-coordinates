@@ -51,6 +51,10 @@ Pair this with automation scripts that rely on:
 
 SetCursorPos
 
+Author
+
+TABARC-Code
+https://github.com/TABARC-Code
 mouse_event
 
 SendKeys
